@@ -1,8 +1,3 @@
-# coding: utf-8
-
-import sys
-sys.path.append("./.pyenv/versions/3.6.5/envs/general/lib/python3.6/site-packages")
-
 import numpy as np
 import math
 import matplotlib.pyplot as plt
